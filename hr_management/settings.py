@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # Main apps
     'apps.company',
     'apps.employee',
+    'apps.department',
 ]
 
 MIDDLEWARE = [
